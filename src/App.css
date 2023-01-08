@@ -1,16 +1,18 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
+
 body {
-    width: 100vw;
-    height: 100vh;
-    display: grid;
-    place-items: center;
-    background-color: #0d192b;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: hsl(217deg, 54%, 11%);
 }
+
 main {
-    display: grid;
-    place-items: center;
-}
+  display: grid;
+  place-items: center;
+}/*# sourceMappingURL=App.css.map */

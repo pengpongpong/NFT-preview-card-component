@@ -63,10 +63,12 @@ $mid_screen: 400px;
 
             svg {
                 opacity: 1;
+                transition: .1s ease-in-out;
             }
 
             div {
                 opacity: .2;
+                transition: .1s ease-in-out;
             }
         }
     }
@@ -78,6 +80,7 @@ $mid_screen: 400px;
         &:hover {
             color: $cyan;
             cursor: pointer;
+            transition: .3s ease-in-out;
         }
     }
 
@@ -139,6 +142,7 @@ hr {
         &:hover {
             color: $cyan;
             cursor: pointer;
+            transition: .3s ease-in-out;
         }
     }
 }
